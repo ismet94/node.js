@@ -1,0 +1,22 @@
+
+
+npm install express-generator -g
+
+express --view=ejs
+
+npm install -g json-server --save
+
+create a db.json manually
+ (touch db.json)
+npm install
+
+npm start
+
+npm install jquery --save
+
+npm install popper.js@^1.12.3 --save
+
+npm install bootstrap --save
+
+npm install nodemon --save
+
